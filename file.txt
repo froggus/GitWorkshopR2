@@ -1,2 +1,3 @@
 Hello GIT
 Hello Repo
+Kurczaki, udaje się!
